@@ -1,0 +1,8 @@
+{
+    "flighttab": "[id='tab-flight-tab']",
+    "fromflight": "[id='flight-origin-text-search']",
+    "toflight": "[id='flight-destination-text-search']",
+    "departdate": "[id='flight-departure']",
+    "flighOcupancy": "[id='flight-occupancy']",
+    "searchflight": "//button[@class='Buttonstyled__ButtonStyled-sc-5gjk6l-0 iCZpGI Box-sc-kv6pi1-0 fDMIuA']"
+}

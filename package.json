@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "cypress": "^15.4.0"
+  },
+  "dependencies": {
+    "xpath": "^0.0.34"
+  }
+}
